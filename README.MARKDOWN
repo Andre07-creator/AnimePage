@@ -1,6 +1,6 @@
 # Anime Page
 ## Pagina criada para treinar conceitos de css
-### O foco principal desta pagina é a utilização dos displays inline e inline-block para que os elementos possam ser organizados um do lado do outro
+### O foco principal desta pagina é a utilização dos displays inline e inline-block para que os elementos possam ser organizados um do lado do outro, a pagina vai passar por melhorias e com o tempo ganhar um escopo e objetivo mais definido
 #### Conceitos utilizados
 * A estruturação do HTML foi feita de forma semantica obedecendo regras como a criação de header, main e seections e não somente criar divs
 * o CSS foi feito utlizando o display inline-block para que as tags não a quebrem para a próxima linha
